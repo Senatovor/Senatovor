@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Senatovor)](https://git.io/streak-stats)
