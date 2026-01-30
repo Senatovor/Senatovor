@@ -20,13 +20,6 @@
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 300px; max-width: 400px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senatovor&theme=github-compact&height=300" width="100%" alt="Activity Graph" />
-      <a href="https://github.com/Senatovor">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-          <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-        </picture>
-      </a>
     </div>
   </div>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
@@ -44,6 +37,13 @@
         <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=Senatovor&theme=dark&hide_border=true" alt="Streak Stats" />
       </picture>
     </a>
+    <a href="https://github.com/Senatovor">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+          <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+        </picture>
+      </a>
   </div>
 </div>
 
