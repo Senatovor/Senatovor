@@ -9,6 +9,12 @@
 
 <hr>
 
+### 📫 Connect with me
+[![VK](https://img.shields.io/badge/ВКонтакте-0A66C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a.orlov5)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([@TobimuneSen](https://t.me/TobimuneSen))
+
+<ht>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div width="100%" align="center">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
