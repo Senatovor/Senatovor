@@ -17,6 +17,25 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div width="100%" align="center">
+  <!-- Первый ряд: Статистика и стрик -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <a href="https://github.com/Senatovor">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=Senatovor&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=Senatovor&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+        <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=Senatovor&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+      </picture>
+    </a>
+    <a href="https://github.com/Senatovor">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=Senatovor&theme=radical&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=Senatovor" />
+        <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=Senatovor&theme=radical&hide_border=true" alt="Streak Stats" />
+      </picture>
+    </a>
+  </div>
+  
+  <!-- Второй ряд: Граф активности и языки -->
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 300px; max-width: 400px;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senatovor&theme=github-compact&height=300" width="100%" alt="Activity Graph" />
