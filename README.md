@@ -22,9 +22,9 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senatovor&theme=github-compact&height=300" width="100%" alt="Activity Graph" />
       <a href="https://github.com/Senatovor">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=false&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10&border_color=333" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10" />
-          <img width="100%" align="center" style="border-radius: 10px;" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=false&langs_count=8&size_weight=0.5&count_weight=0.5&border_radius=10&border_color=333" alt="Top Languages" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+          <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=Senatovor&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
         </picture>
       </a>
     </div>
